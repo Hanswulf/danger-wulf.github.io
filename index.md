@@ -1,4 +1,4 @@
-# Wohnwagen
+# Wohnwagen Checkliste
 
 ## Losfahren
 - Gas zudrehen, Gasflasche abklemmen
