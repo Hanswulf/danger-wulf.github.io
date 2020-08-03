@@ -38,7 +38,7 @@
 Die Antenne befindet sich im Schrank direkt neben der Tür.
 
 ### Gasanschlüsse
-Die Gasflacshe befindet sich in der Frontklappe außen. Die Gashähne unter dem Spülbecken.
+Die Gasflasche befindet sich in der Frontklappe außen. Die Gashähne unter dem Spülbecken.
 
 ### Heizung
 1. Gas aufdrechen
