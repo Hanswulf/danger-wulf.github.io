@@ -34,6 +34,8 @@
 - Mover einkurbeln, ausschalten
 - Strom, Gas, Wasser, Antenne anschließen
 
+---------------------------
+
 ### Antenne
 Die Antenne befindet sich im Schrank direkt neben der Tür.
 
